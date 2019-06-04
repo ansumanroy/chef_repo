@@ -1,0 +1,9 @@
+{
+	  "id": "cloud_user",
+	    "password": "$1$rcDGKP1F$IAwO.e62pO48s9Qr1DT51.",
+	      "uid": 1001,
+	        "groups": ["wheel", "dev"],
+		  "ssh_keys": [
+			        "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCoO+zRsCVf+wbX4twRVdP+n/dhLKWXfYKZQxQ7tbwhScB0yokNcxNeJT4toEty82Ds6vIhl8pIMAY7vi5PTU+Kman/kFH6huu1tcWjqb/shy0KSwk6sI52LA1LMrQAUHVDRXGZKbsqC9hd4WcZ63oTlCu0iarXR5bqaNazhh2r/C2iXsG3aSx/hNOuT5BKbNZ8UD15Ifl6oazotsGdCyG8dupJB4vE4xmS91GleilZjAj7occiVg3SE00DZqk9m1JhyxjOIQVD4MA8aV2jUbNxb089/5oxBiNrqOfcW/8x+wo/ZKAr2uqnz2ncTbTt5uPfbRnFa9sIzd8W5tqx39WR ansuman.roy.au@gmail.com"
+]
+}

@@ -1,0 +1,7 @@
+{
+	  "id": "jenkins",
+	    "comment": "A user for CI/CD",
+	      "password": "$1$7jWtg9dD$jfF4Gc5LNVkN8yMe0GeA70",
+	        "groups": ["ci"],
+		  "uid": 2001
+}
